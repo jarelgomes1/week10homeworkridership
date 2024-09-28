@@ -6,13 +6,10 @@ const mapSpec = {
     "data": [
         {
             "name": "mapData",
-            "url": "visualizations/mapVisualization.vg.json", // URL to your JSON file
-            "format": {
-                "type": "json"
-            }
+            "url": "visualizations/mapVisualization.vg.json",
+            "format": {"type": "json"}
         }
     ],
-    // Additional properties and data as needed
     "marks": [
         {
             "type": "shape",
@@ -23,9 +20,7 @@ const mapSpec = {
                     "stroke": {"value": "#3182bd"}
                 }
             },
-            "transform": [
-                {"type": "geoshape", "projection": "mercator"}
-            ]
+            "transform": [{"type": "geoshape", "projection": "mercator"}]
         }
     ],
     "projections": [
@@ -38,50 +33,5 @@ const mapSpec = {
     ]
 };
 
-// Line Chart Specification
-const lineChartSpec = {
-    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "description": "A simple line chart.",
-    "data": {
-        "values": [] // This will be dynamically updated based on map interaction
-    },
-    "mark": "line",
-    "encoding": {
-        "x": {"field": "Time", "type": "ordinal"},
-        "y": {"field": "Value", "type": "quantitative"}
-    }
-};
-
 // Embed the map visualization
-vegaEmbed('#mapVis', mapSpec, {mode: "vega"}).then(response => {
-    const view = response.view;
-    
-    // Assume your countries have an identifiable field like 'id' or 'name'
-    view.addEventListener('click', function(event, item) {
-        if (item && item.datum && item.datum.name) {
-            updateLineChart(item.datum.name);
-        }
-    });
-}).catch(console.error);
-
-// Function to update the line chart based on the country selected
-function updateLineChart(countryName) {
-    // Fetch new data or filter existing dataset based on the countryName
-    const newData = fetchDataForCountry(countryName); // This function needs to be implemented
-
-    // Update line chart spec data
-    lineChartSpec.data.values = newData;
-
-    // Re-embed the updated line chart
-    vegaEmbed('#lineChartVis', lineChartSpec, {mode: "vega-lite"}).catch(console.error);
-}
-
-// Mock function to simulate fetching data
-function fetchDataForCountry(countryName) {
-    // This should actually fetch or compute data based on `countryName`
-    return [
-        {Time: "2020", Value: Math.random() * 100},
-        {Time: "2021", Value: Math.random() * 100},
-        {Time: "2022", Value: Math.random() * 100}
-    ];
-}
+vegaEmbed('#mapVis', mapSpec, {mode: "vega"}).catch(console.error);
