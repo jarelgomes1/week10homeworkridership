@@ -1,0 +1,1096 @@
+"name","hdc","value"
+"The Honolulu / Waipahu / Pearl City area","00001",0.320487428486822
+"The San Jose / San Francisco / Oakland area","00011",0.53375315307926
+"The Los Angeles / Long Beach / Anaheim area","00017",0.348443644825171
+"The Tijuana / San Diego / Chula Vista area","00024",0.320369093712644
+"The Bakersfield area","00037",0.0857118528645732
+"The Fresno area","00056",0.142256261700696
+"The Sacramento / Elk Grove / Roseville area","00058",0.188886515194439
+"The Mexicali area","00067",0.290215442653559
+"The Hermosillo area","00077",0.49059561308737
+"The Culiacán area","00085",0.471826897527099
+"The Las Vegas / Henderson / North Las Vegas area","00086",0.198235772318917
+"The Phoenix / Glendale / Scottsdale area","00092",0.310748089894953
+"The Mesa / Chandler / Gilbert area","00095",0.363502801168471
+"The Tucson area","00099",0.32165255144584
+"The Guadalajara / Zapopan / Tlaquepaque area","00102",0.569100949361314
+"The Durango area","00106",0.383595697840971
+"The Portland / Vancouver / Gresham area","00114",0.475668508920238
+"The Chihuahua area","00124",0.180777387649068
+"The Aguascalientes area","00125",0.56590151475462
+"The Morelia area","00129",0.30692775054621
+"The León area","00132",0.216176007765461
+"The Acapulco area","00137",0.756854327954572
+"The Torreón / Gómez Palacio / Ciudad Lerdo area","00140",0.157286419397794
+"The Querétaro area","00150",0.700502341992416
+"The Ciudad Juárez / El Paso area","00152",0.219833003972012
+"The San Luis Potosí area","00154",0.489386466720886
+"The Toluca / Lerma area","00157",0.384485239860438
+"The Cuernavaca / Temixco area","00166",0.361033082585691
+"The Seattle / Bellevue area","00167",0.469532638614412
+"The Mexico City / Ecatepec / Nezahualcóyotl area","00168",0.49353887395016
+"The Puebla area","00193",0.447838029931783
+"The Saltillo area","00195",0.394257514989383
+"The Vancouver / Surrey / Burnaby area","00203",0.682572797862257
+"The Salt Lake City / West Valley City area","00209",0.295289024929677
+"The Albuquerque area","00213",0.319383194322419
+"The Monterrey / Guadalupe / Apodaca area","00218",0.636554980194205
+"The Oaxaca de Juárez / Oaxaca area","00221",0.222189432061288
+"The Xalapa area","00240",0.729821142589023
+"The Tampico / Ciudad Madero area","00243",0.19332814153131
+"The Veracruz area","00247",0.834924906307407
+"The Nuevo Laredo / Laredo area","00255",0.233731729463039
+"The Reynosa area","00258",0.191101861443286
+"The Matamoros area","00266",0.292212206164699
+"The Tuxtla Gutiérrez area","00270",0.179456271990335
+"The San Antonio area","00271",0.240406083891557
+"The Denver / Aurora / Lakewood area","00294",0.332947540994428
+"The Austin / Round Rock area","00295",0.295911528959476
+"The Guatemala City / Villa Nueva / Mixco area","00309",0.373610646405936
+"The San Salvador / Santa Tecla area","00331",0.54800311625589
+"The Houston / Pasadena area","00332",0.204049862850842
+"The Fort Worth area","00336",0.215495759442221
+"The Arlington / Grand Prairie area","00340",0.198819443563956
+"The Dallas / Plano / Irving area","00352",0.28505697718572
+"The San Pedro Sula / Choloma area","00367",0.421304082077974
+"The Oklahoma City area","00370",0.212879530732425
+"The Mérida / Kanasín area","00372",0.421468118208115
+"The Tegucigalpa area","00381",0.570328960021501
+"The Calgary area","00383",0.548105243073983
+"The Managua area","00386",0.757118689026534
+"The San José / Heredia / Alajuela area","00408",0.7196862273232
+"The Cancún area","00409",0.417309024201144
+"The New Orleans area","00413",0.341362675191688
+"The Edmonton / St. Albert area","00415",0.51195822850026
+"The Omaha area","00429",0.422358526728511
+"The Guayaquil / Durán area","00438",0.736191030129764
+"The Chiclayo area","00448",0.858947459379538
+"The Panama area","00463",0.479727639609047
+"The Trujillo area","00470",0.91148357392508
+"The Quito / Sangolqui area","00471",0.782569048405617
+"The Havana area","00474",0.810525485063879
+"The St. Louis area","00491",0.286929995380087
+"The Saint Petersburg / Clearwater area","00501",0.215384831603983
+"The Tampa area","00515",0.210672025419323
+"The Cali area","00516",0.774083570613219
+"The Lima / Callao area","00536",0.859211955784666
+"The Pereira area","00548",0.588885960627754
+"The Miami / Hialeah / Fort Lauderdale area","00558",0.246391816228195
+"The Medellín / Bello / Medellin area","00562",0.772685863928511
+"The Minneapolis / Saint Paul area","00564",0.35491187433937
+"The Atlanta area","00568",0.293688516030106
+"The Orlando / Kissimmee area","00570",0.0898117711440326
+"The Cartagena area","00587",0.680505156151443
+"The Jacksonville area","00595",0.126165654030485
+"The Kingston area","00606",0.564076887776447
+"The Bogota / Soacha area","00615",0.84295275548681
+"The Winnipeg area","00620",0.458623956358686
+"The Barranquilla area","00621",0.830956161625782
+"The Louisville area","00622",0.223970640300034
+"The Chicago / Aurora / Naperville area","00633",0.511166075691178
+"The Indianapolis area","00650",0.204330890907645
+"The Bucaramanga area","00665",0.568235255863248
+"The Valledupar area","00672",0.364140866734315
+"The Milwaukee area","00674",0.463698692272924
+"The Cúcuta / San Antonio del Táchira / Ureña area","00682",0.493661471095035
+"The Maracaibo / San Francisco area","00707",0.315402418814207
+"The Columbus area","00720",0.289366203516617
+"The Port-au-Prince / Carrefour / Delmas area","00726",0.794358145765234
+"The Arequipa area","00736",0.802774626678366
+"The Detroit / Windsor / Sterling Heights area","00753",0.453839892038566
+"The Barquisimeto area","00764",0.261220391251061
+"The Cleveland area","00774",0.434052800097949
+"The Santiago de los Caballeros area","00779",0.491158212212601
+"The Santo Domingo area","00795",0.602460423690732
+"The Pittsburgh area","00797",0.487643001376422
+"The Valencia / Tocuyito / Guacara area","00798",0.391916538493679
+"The Maracay / Turmero / Santa Rita area","00808",0.272442729747499
+"The El Alto / La Paz area","00820",0.805924742827625
+"The Norfolk / Portsmouth area","00821",0.267500232591812
+"The Caracas area","00828",0.53507317621039
+"The Washington / Arlington / Alexandria area","00829",0.416964776971286
+"The Baltimore / Dundalk / Towson area","00849",0.511831685487969
+"The Toronto / Mississauga / Brampton area","00852",0.73020757908691
+"The Buffalo / North Tonawanda / Tonawanda area","00861",0.420075957545383
+"The Cochabamba / Sacaba / Quillacollo area","00871",0.688094991293388
+"The Viña del Mar / Valparaíso / Quilpué area","00875",0.791900644279349
+"The Bayamón / San Juan / Río Piedras area","00877",0.469298937268633
+"The Barcelona / Puerto La Cruz / Lechería area","00878",0.652986206986087
+"The Philadelphia / Camden area","00885",0.624017452694965
+"The Concepción / Talcahuano area","00889",0.707367189462141
+"The Santiago area","00909",0.810231311598062
+"The New York / Newark / Jersey City area","00924",0.665191920456574
+"The Ciudad Guayana / Puerto Ordaz area","00937",0.697480445900428
+"The Mendoza area","00947",0.747640209712268
+"The Salta area","00952",0.602420140959196
+"The Santa Cruz de la Sierra area","00962",0.794149885400632
+"The Ottawa / Gatineau area","00976",0.834820422029567
+"The San Miguel de Tucumán area","00978",0.656772930665836
+"The Manaus area","00993",0.583866616098113
+"The Montreal / Laval / Longueuil area","01001",0.702853610826192
+"The Boston / Cambridge / Quincy area","01005",0.564270033343299
+"The Cordoba area","01018",0.740616051623631
+"The Quebec / Lévis area","01031",0.607375826075525
+"The Cuiabá / Várzea Grande area","01047",0.544710874982465
+"The Rosario area","01056",0.882032799119611
+"The Asuncion / San Lorenzo area","01060",0.697610763798489
+"The Campo Grande area","01077",0.486051424944636
+"The Buenos Aires / Lanús / Avellaneda area","01087",0.797370597832281
+"The La Plata / Berisso area","01098",0.59252507771076
+"The Ciudad del Este / Foz do Iguaçu area","01099",0.674435251810276
+"The Montevideo area","01122",0.836647018268935
+"The Mar del Plata area","01125",0.675920965405491
+"The Londrina / Cambé area","01146",0.613433841063944
+"The Belém / Ananindeua / Marituba area","01149",0.458627960447431
+"The Goiânia / Aparecida de Goiânia area","01160",0.378566712829828
+"The Ceilândia / Samambaia / Taguatinga area","01196",0.718693975589566
+"The Novo Hamburgo / São Leopoldo area","01200",0.386278326322738
+"The Valparaíso de Goiás / Gama / Santa Maria area","01201",0.680272125984334
+"The Porto Alegre / Canoas / Gravataí area","01202",0.622554201135591
+"The Uberlândia area","01210",0.470545300519326
+"The Curitiba / São José dos Pinhais area","01224",0.740446648642253
+"The Ribeirao Preto area","01240",0.339008401491722
+"The Joinville area","01245",0.83313300853453
+"The Florianópolis / São José / Palhoça area","01266",0.674552471480854
+"The Sorocaba / Votorantim area","01272",0.566993155511932
+"The Campinas / Sumaré / Hortolândia area","01274",0.449556101909035
+"The São Paulo / Guarulhos area","01289",0.654412650768911
+"The São Luís / Paço do Lumiar area","01298",0.573563172314627
+"The Santos / São Vicente / Guarujá area","01303",0.474845749343702
+"The Sao Jose dos Campos / Jacareí area","01308",0.557357591160598
+"The Teresina / Timon area","01328",0.826140192285772
+"The Belo Horizonte / Belo Horizonte area","01331",0.473968019886147
+"The Rio de Janeiro / Duque de Caxias area","01347",0.589811671198375
+"The Juiz de Fora area","01348",0.229559175328975
+"The Sao Goncalo / Niterói / Itaboraí area","01360",0.465248089737692
+"The Vila Velha / Vitória area","01390",0.837402143931119
+"The Fortaleza / Caucaia / Maracanaú area","01397",0.853848807683538
+"The Feira de Santana area","01402",0.33473128585318
+"The Salvador / Lauro de Freitas area","01410",0.62431800468973
+"The Aracaju area","01422",0.804389202453212
+"The Maceió area","01430",0.597736748487426
+"The Natal area","01432",0.851524831377075
+"The Recife / Jaboatão dos Guararapes area","01437",0.682029330675769
+"The João Pessoa / Santa Rita area","01440",0.425018584999084
+"The Dakar / Guédiawaye / Rufisque area","01443",0.817856903431211
+"The Serrekunda area","01447",0.273820860737311
+"The Touba area","01461",0.143781193707503
+"The Nouakchott area","01462",0.834490995683891
+"The Bissau area","01464",0.147312388845208
+"The Coyah / Dubréka area","01486",0.650562437040208
+"The Freetown / Waterloo area","01490",0.423492256665615
+"The Monrovia area","01509",0.153439476983818
+"The Agadir area","01531",0.829005302435158
+"The Lisbon / Amadora / Almada area","01540",0.849557812096482
+"The Bamako area","01541",0.793394782057478
+"The Marrakesh area","01558",0.714022059163829
+"The Porto / Vila Nova de Gaia / Rio Tinto area","01559",0.736426017145152
+"The Casablanca / Mohammedia area","01567",0.568578664845743
+"The Rabat / Salé / Temara area","01591",0.749010674756107
+"The Kenitra area","01603",0.869524538135926
+"The Seville area","01633",0.861129864032828
+"The Tangier area","01637",0.768373453349272
+"The Bouaké area","01641",0.819801036752438
+"The Meknes area","01642",0.866523099611776
+"The Dublin area","01658",0.876702708490798
+"The Fez area","01666",0.866769251834548
+"The Bobo-Dioulasso area","01669",0.518194977828592
+"The Abidjan / Abobo / Yopougon area","01676",0.764162176950783
+"The Málaga area","01686",0.850074465177461
+"The Madrid / Móstoles / Leganés area","01699",0.852988098053713
+"The Glasgow area","01707",0.693798974380221
+"The Bilbao / Barakaldo area","01735",0.855790435944739
+"The Edinburgh area","01746",0.887336926244177
+"The Liverpool area","01747",0.681526795792388
+"The Bristol area","01768",0.880608708037255
+"The Manchester / Salford area","01775",0.692003886588805
+"The Sekondi-Takoradi area","01777",0.277762502722573
+"The Kumasi area","01783",0.292196025396089
+"The Oujda area","01785",0.919987950782596
+"The Ouagadougou area","01796",0.447991796511551
+"The Birmingham / Wolverhampton area","01798",0.7756328945865
+"The Leeds / Bradford area","01819",0.806414255266841
+"The Newcastle upon Tyne area","01828",0.807918437364837
+"The Sheffield area","01836",0.821646297605246
+"The Nottingham area","01854",0.847492577567475
+"The Leicester area","01864",0.807347398429314
+"The Tamale area","01866",0.454277062558099
+"The Zaragoza area","01874",0.903537825100946
+"The Oran / Bir El Djir area","01886",0.721400681696381
+"The Bordeaux area","01893",0.867780977406105
+"The Accra / Tema area","01900",0.551455535655758
+"The London / Westminster / City of London area","01910",0.857077483384544
+"The Valencia / Torrent area","01911",0.831015416979433
+"The Toulouse area","01996",0.784732422868184
+"The Lomé area","01997",0.564105921872654
+"The Paris / Argenteuil area","02031",0.906738917641411
+"The Barcelona / l'Hospitalet de Llobregat area","02039",0.850898043558959
+"The Niamey area","02054",0.740524999659371
+"The Cotonou / Abomey-Calavi area","02067",0.614705052429016
+"The Lille area","02070",0.867659199772817
+"The Blida area","02082",0.635422980175748
+"The Algiers / Kouba area","02087",0.744763641291398
+"The Porto-Novo area","02089",0.576422772257374
+"The Boumerdes area","02107",0.498299261415898
+"The Djelfa area","02108",0.812830839715137
+"The Rotterdam / The Hague / Zoetermeer area","02118",0.743645705213548
+"The Lagos / Ikeja area","02123",0.0954728711214709
+"The Antwerp area","02127",0.64539856820432
+"The Brussels area","02133",0.905182936644005
+"The Abeokuta area","02138",0
+"The Ikorodu area","02160",0.0795837722438276
+"The Amsterdam area","02163",0.751258813986461
+"The Utrecht area","02179",0.800415769421601
+"The Lyon / Villeurbanne area","02185",0.878043939200764
+"The Ibadan area","02186",0.0559830547765126
+"The Oyo area","02191",0
+"The Marseille area","02229",0.894859078070248
+"The Oshogbo area","02239",0.0231268814838217
+"The Ilorin area","02242",0.00479310475075554
+"The Ondo area","02274",0
+"The Essen / Duisburg / Bochum area","02288",0.786565915166524
+"The Dusseldorf / Wuppertal / Solingen area","02289",0.801371799498089
+"The Cologne / Leverkusen / Bergisch Gladbach area","02313",0.839404034660412
+"The Sokoto area","02314",0.00172751023129858
+"The Akure area","02315",0.0396369025061611
+"The Ado Ekiti area","02322",0
+"The Bonn area","02329",0.821843650944366
+"The Dortmund area","02349",0.795114351472816
+"The Benin City area","02356",0.192814938229226
+"The Warri area","02364",0.18443205264559
+"The Turin area","02414",0.888169889427373
+"The Uhuodo / Ozuri / Nagazi area","02422",0
+"The Frankfurt / Offenbach am Main area","02461",0.860097511959223
+"The Zurich area","02478",0.864925716839564
+"The Lokoja area","02480",0
+"The Onitsha area","02497",0
+"The Amurie / Omuma / Orlu area","02503",0
+"The Nnewi area","02504",0
+"The Oslo area","02510",0.856456487759607
+"The Port Harcourt area","02514",0.0836545726072342
+"The Owerri area","02522",0.00331807511086818
+"The Maradi area","02523",0.508205584938501
+"The Stuttgart area","02532",0.86476710599468
+"The Hanover area","02536",0.831710694763915
+"The Milan / Monza area","02541",0.814536792325808
+"The Hamburg area","02543",0.774824871016691
+"The Genoa area","02545",0.87336789705544
+"The Aboh / Nnarambia area","02565",0.00669941773838635
+"The Abuja area","02572",0.0511857787852408
+"The Kaduna area","02579",0.0498227513867091
+"The Aba area","02582",0.00704598327995878
+"The Nsukka area","02589",0.0125882992881885
+"The Umuahia area","02607",0
+"The Enugu area","02609",0.247745250174891
+"The Katsina area","02611",0.0982128893559389
+"The Zaria area","02625",0.0186682718615899
+"The Uyo area","02659",0
+"The Gothenburg area","02671",0.722690568958706
+"The Kano area","02697",0.0655694374089465
+"The Calabar area","02700",0
+"The Nuremberg / Fürth area","02708",0.852994635438584
+"The Copenhagen area","02731",0.752846324801533
+"The Malabo area","02737",0.0295439081469072
+"The Jos area","02741",0.127395717669517
+"The Tunis / Ariana / Ben Arous area","02743",0.570351768936649
+"The Zinder area","02751",0.600834010538717
+"The Munich area","02759",0.907125859090341
+"The Florence / Prato area","02767",0.751741617766209
+"The Leipzig area","02776",0.809696957861484
+"The Libreville / Owendo area","02802",0.331632405672677
+"The Sfax area","02806",0.673872665892638
+"The Douala area","02817",0.583377854505244
+"The Berlin area","02819",0.85582945552842
+"The Bauchi area","02822",0.107141032101138
+"The Bata area","02829",0.0269103001881243
+"The Dresden area","02856",0.855957855337868
+"The Rome area","02862",0.74864004665123
+"The Prague area","02889",0.857128133497856
+"The Yaoundé area","02918",0.739359619244521
+"The Palermo area","02920",0.580485569358218
+"The Tripoli area","02928",0.547745878915531
+"The Stockholm area","02929",0.729318131629433
+"The Pointe-Noire area","02937",0.589518235344513
+"The Naples / Giugliano in Campania area","02943",0.587607335238104
+"The Cabinda area","02959",0.0830380063832961
+"The Yola / Jimeta area","02964",0.0528757381799667
+"The Poznan area","02969",0.838568653496075
+"The Vienna area","02978",0.88660792714321
+"The Zagreb area","02984",0.808919373422808
+"The Wrocław area","02986",0.920585616096097
+"The Maiduguri area","02992",0.135977716672594
+"The Luanda area","02999",0.167531311719245
+"The Benguela area","03012",0.212722439423209
+"The Lubango area","03013",0.544013405505151
+"The Garoua area","03019",0.645657108441948
+"The Lobito area","03028",0.0154130049748213
+"The Katowice / Zabrze / Bytom area","03088",0.839990068960969
+"The Lodz area","03098",0.850535438342394
+"The N'Djamena / Kousseri area","03125",0.44950740477514
+"The Budapest area","03133",0.860527726560577
+"The Krakow area","03147",0.823491494109908
+"The Kinshasa / Brazzaville area","03152",0.720336356284518
+"The Warsaw area","03158",0.882165728706027
+"The Huambo area","03164",0.123504599833778
+"The Helsinki / Vantaa area","03179",0.648934905023191
+"The Malanje area","03192",0.00792583585918313
+"The Cape Town area","03203",0.395266293092145
+"The Riga area","03206",0.839888724057013
+"The Belgrade area","03207",0.769522543895912
+"The Tirana / Kamez area","03212",0.740023784662972
+"The Cuito area","03220",0.000209195258724852
+"The Benghazi / Benghazi area","03282",0.606365490050088
+"The Lviv area","03284",0.859898600704269
+"The Bangui / Bégoua / Bimbo area","03295",0.379773637799629
+"The Sofia area","03315",0.814958930932707
+"The Thessaloniki area","03321",0.862230565919799
+"The Saint Petersburg area","03332",0.876385044639598
+"The Luena area","03335",0
+"The Minsk area","03338",0.876877193502521
+"The Athens / Piraeus / Peristeri area","03363",0.918485502002919
+"The Tshikapa area","03378",0.195427879765959
+"The Bucharest area","03392",0.841887721696835
+"The Kananga area","03433",0.0674586798183696
+"The Homel area","03449",0.772499344585783
+"The Gqeberha area","03452",0.14785319624073
+"The Kyiv area","03459",0.844208849352206
+"The Izmir area","03477",0.67718287764082
+"The Kasaï-Oriental area","03489",0.0645333306966462
+"The Kebkabiya area","03502",0
+"The Istanbul area","03523",0.827901265041755
+"The Odesa area","03539",0.750118809798099
+"The Bursa area","03550",0.759015438265909
+"The Nyala area","03553",0
+"The Kamina area","03570",0.461285747562257
+"The Al-Fashir area","03579",0
+"The Kocaeli area","03585",0.545974455148818
+"The Denizli area","03589",0.73409382121225
+"The Kisangani area","03591",0.151851934711775
+"The Ad Da'ein area","03626",0.474642336726797
+"The Eskisehir area","03630",0.879484031676563
+"The Johandeo AH / Sebokeng / Evaton area","03639",0.0309311575312871
+"The Kryvyi Rih area","03641",0.540147012231922
+"The Johannesburg / Soweto / Randburg area","03642",0.203819519922927
+"The Moscow / Balashikha / Mytishchi area","03645",0.85951283289827
+"The Mothutlung / Ga-Rankuwa / Klipgat area","03660",0.0938646813306075
+"The Pretoria area","03668",0.336899346307544
+"The Likasi area","03680",0.0477017737157178
+"The Antalya area","03698",0.596162967771052
+"The Yaroslavl area","03718",0.717483420927656
+"The Alexandria area","03726",0.371578261024766
+"The Dnipro area","03730",0.685181158170066
+"The Lubumbashi area","03733",0.370640154678595
+"The Zaporizhzhia area","03748",0.563985580227864
+"The Kharkiv area","03765",0.760378101020941
+"The Lusaka area","03776",0.334375991107218
+"The Sincan / Etimesgut area","03781",0.789170838753004
+"The Damanhur area","03784",0
+"The Ankara area","03790",0.862046870346361
+"The Kitwe area","03793",0.0335614754320828
+"The Konya area","03821",0.652503723102939
+"The Durban area","03844",0.0667150535724208
+"The Tanta area","03845",0.135220594885904
+"The Faiyum area","03866",0.243100302687662
+"The El Mahalla El Kubra area","03871",0
+"The Cairo / Giza / Shubra al Khayma area","03884",0.208382430392047
+"The Banha area","03894",0
+"The Aghour Al-Kubra / Tukh / Qaha area","03898",0
+"The El Mansura area","03904",0.0728390415210358
+"The Beni Suef / New Bani Sweif area","03954",0.21530110765553
+"The Al Zaqaziq area","03956",0.197402907812898
+"The Damietta area","03999",0.0419620885411894
+"The Bukavu area","04005",0.762698185032844
+"The Asyut area","04015",0.178914264570796
+"The Voronezh area","04033",0.814937617459597
+"The Kalemie area","04039",0.645696233900079
+"The Goma / Rubavu area","04045",0.571253920945763
+"The Port Said area","04062",0.0739403707139971
+"The Bujumbura area","04065",0.559519124143629
+"The Donetsk area","04069",0.609491316754633
+"The Al Ismailiya area","04076",0.025336122686527
+"The Beni area","04080",0.890256756486959
+"The Suhaj / نجع النجار area","04092",0.1551903070493
+"The Al-Ubayyid area","04107",0.00339602388016361
+"The Suez area","04109",0.0863607189192229
+"The Harare / Chitungwiza area","04128",0.220358245287091
+"The Kigali area","04131",0.285798057392499
+"The Mersin area","04135",0.564779533493849
+"The Nizhny Novgorod area","04144",0.782546792072313
+"The Bunia area","04146",0.661492760693513
+"The Samsun area","04151",0.844208742288889
+"The Kayseri area","04158",0.746288752923246
+"The Maputo / Matola area","04159",0.184904945106057
+"The Tod / Armant Al-Waburat / Armant Gharb area","04162",0
+"The Luxor / New Thebes area","04166",0.217539007465444
+"The Adana area","04174",0.477726730004708
+"The Khan Yunis / Rafah area","04203",0.719991288109168
+"The Rostov-on-Don area","04207",0.76783106406325
+"The Gaza / Jabalia area","04212",0.928574018787629
+"The Krasnodar area","04221",0.723513374285963
+"The Tel Aviv / Rishon LeZion / Petah Tikva area","04225",0.760624639891956
+"The Latakia area","04239",0.743298308740343
+"The Khartoum / Omdurman / Bahri area","04252",0.399307509253947
+"The Beirut / Jounieh area","04258",0.710683051404331
+"The Hatay area","04260",0.459017669537607
+"The Jerusalem / Maale Adumim / Ramallah area","04276",0.646069301160202
+"The Kahramanmaraş area","04293",0.840140455501809
+"The Nimule area","04300",0
+"The Irbid area","04317",0.369790322558295
+"The Amman / Zarqa / Sahab area","04327",0.317385530914014
+"The Damascus area","04329",0.561019887527705
+"The Aleppo area","04337",0.694813361408994
+"The Kampala / Kira / Nansana area","04345",0.523024803450859
+"The Gaziantep area","04346",0.849639653745515
+"The Homs area","04347",0.707923770575614
+"The Mwanza area","04377",0.569019687374529
+"The Lilongwe area","04398",0.0638089131931162
+"The Mbeya area","04400",0.353318815951951
+"The Şanlıurfa area","04428",0.861467293183319
+"The Tabuk area","04430",0.0749444688765769
+"The Saratov area","04451",0.825996904341085
+"The Kazan area","04453",0.769705287865072
+"The Blantyre / Limbe area","04455",0.122197564923693
+"The Volgograd area","04463",0.731217535834871
+"The Diyarbakir area","04484",0.83063760664813
+"The Nakuru area","04570",0.248655979973681
+"The Samara area","04585",0.803611117858218
+"The Izhevsk area","04590",0.799296697116999
+"The Naberezhnye Chelny area","04600",0.66086103960568
+"The Arusha area","04607",0.324755620739634
+"The Nairobi area","04610",0.562008059264204
+"The Zakho area","04638",0.660277314934354
+"The Van area","04653",0.556043381285522
+"The Medina area","04659",0.180809833340853
+"The Duhok area","04661",0.761407259455716
+"The Tbilisi area","04663",0.821326008186638
+"The Jeddah area","04671",0.146360353705652
+"The Yerevan area","04701",0.73735862976237
+"The Mosul area","04709",0.64682016333041
+"The Mecca area","04742",0.147183392984469
+"The Astrakhan area","04746",0.593025971443719
+"The Addis Ababa area","04779",0.59601785846322
+"The Nampula area","04784",0.111748822937325
+"The Erbil area","04795",0.834078460353495
+"The At Ta'if area","04815",0.244262027351318
+"The Dar es-Salaam area","04829",0.588999611714672
+"The Urmia area","04842",0.575885957317033
+"The Adama area","04843",0.272934731109225
+"The Makhachkala area","04848",0.576850328881855
+"The Kirkuk area","04855",0.828813130276782
+"The Zanzibar City area","04857",0.640257815728261
+"The Al Mushahidah area","04878",0
+"The Mombasa area","04893",0.241531433473442
+"The Karbala area","04895",0.73148839611395
+"The Karim as Salih / Jasim area","04899",0.0286251458005643
+"The Baghdad area","04900",0.748795444035273
+"The Ufa area","04905",0.8039702920866
+"The Tabriz area","04915",0.793789493793257
+"The Sulaymaniyah area","04925",0.800598608753712
+"The Al Hillah area","04927",0.387048754579445
+"The Al-Najaf / Al Kufa area","04933",0.68506123901196
+"The Ad Diwaniyah area","04966",0.60147992448539
+"The Khamis Mushayt area","05008",0.0434225292524374
+"The Yekaterinburg area","05014",0.831957832245955
+"The Sumgayit area","05030",0.509849424095405
+"The Kermanshah area","05032",0.545976654318782
+"The Baku / Khyrdalan area","05046",0.740678559623458
+"The Nasiriyah area","05051",0.644760187453659
+"The Hodeidah area","05056",0.655293596593476
+"The Djibouti area","05094",0.658062329630665
+"The Amarah area","05099",0.664845653609221
+"The Rasht area","05132",0.714662549836922
+"The Chelyabinsk area","05147",0.726186746481238
+"The Sana'a area","05150",0.727150869481176
+"The Ta'izz area","05155",0.400884641667299
+"The Ibb area","05164",0.406976325451689
+"The Basra area","05183",0.649385238318703
+"The Hargeisa area","05198",0.262493058175079
+"The Riyadh area","05211",0.142871046391316
+"The Kuwait City / Jileeb Al-Shiyukh area","05216",0.302107157662745
+"The Ahwaz area","05223",0.216794473653721
+"The Bi'r Rubak area","05229",0.554168964276684
+"The Tyumen area","05248",0.640013222766721
+"The Karaj / Andishe area","05251",0.651507222535539
+"The Tehran / Eslamshahr / Qods area","05265",0.763270442471063
+"The Qom area","05269",0.67707962385352
+"The Mogadishu area","05274",0.124147166126746
+"The Antananarivo area","05299",0.45988577848833
+"The Isfahan area","05316",0.593008984237519
+"The Al Ahsa / Al-Hofuf area","05323",0.101160268589809
+"The Dammam / Al Khubar area","05326",0.109135916395962
+"The Manama / Riffa / A'ali area","05347",0.566584984230333
+"The Shiraz area","05362",0.619883366813238
+"The Doha / Al Rayyan area","05369",0.276969434196521
+"The Kavar area","05379",0.389255944904972
+"The Sarvestan area","05399",0
+"The Kharameh area","05401",0.0503751588860108
+"The Ashgabat area","05426",0.61593074966149
+"The Abu Dhabi area","05439",0.700494588952622
+"The Omsk area","05446",0.726216466106433
+"The Mashhad area","05447",0.413555800530608
+"The Dubai / Sharjah / Ajman area","05448",0.29417329344917
+"The Al Ain / Al-Buraimi area","05457",0.11688950001915
+"The Astana area","05472",0.665188911211196
+"The Seeb area","05494",0.367298115567168
+"The Herat area","05495",0.0913770708371965
+"The Port Louis / Vacoas-Phoenix area","05497",0.59200323794771
+"The Muscat / Muttrah area","05500",0.387052070169003
+"The Zahedan area","05509",0.730270395673688
+"The Samarqand area","05532",0.441873870186983
+"The Shymkent area","05545",0.35063113213049
+"The Tashkent area","05553",0.383305143629279
+"The Novosibirsk area","05573",0.731108452191376
+"The Mazar i sharif area","05576",0.268805731959872
+"The Dushanbe area","05595",0.579541553709585
+"The Kandahar area","05606",0.13012428638962
+"The Namangan area","05628",0.287655958523658
+"The Fergana / Margilan area","05642",0.330707927352074
+"The Barnaul area","05649",0.67610813331007
+"The Andijon area","05655",0.443672505423574
+"The Kabul / Paghman area","05667",0.269999369219959
+"The Quetta area","05669",0.121661880248904
+"The Bishkek area","05681",0.806193109277054
+"The Jalalabad area","05693",0.261674542460921
+"The Karachi area","05710",0.658569555115281
+"The Almaty area","05712",0.61414030844778
+"The Larkana area","05728",0.205314929213939
+"The Peshawar area","05744",0.151845326717575
+"The Sukkur area","05763",0.311777025378058
+"The Mardan area","05773",0.0463025225888401
+"The Mingora / Saidu Sharif area","05776",0.0106692782045172
+"The Nowshera area","05782",0.0618386370808505
+"The Hyderabad / Kotri area","05787",0.499794731434176
+"The Krasnoyarsk area","05808",0.775057603891922
+"The Kashgar area","05827",0.121262027594842
+"The Taxila / Wah area","05838",0.102211251066242
+"The Rahim Yar Khan area","05843",0.0481472070128169
+"The Rawalpindi / Islamabad area","05849",0.312221489222029
+"The Abbottabad area","05853",0.229394789592515
+"The Multan area","05862",0.277018341432364
+"The Sargodha area","05875",0.0674186314537649
+"The Jhang area","05882",0.0287092738747778
+"The Bahawalpur area","05895",0.241334965022946
+"The Faisalabad area","05918",0.299171763607338
+"The Srinagar area","05951",0.563684583078269
+"The Sahiwal area","05956",0.1338303623689
+"The Gujrat area","05959",0.384467637524897
+"The Jamnagar area","05965",0.328287487836389
+"The Gujranwala area","05979",0.229535955291685
+"The Okara area","05985",0.127988147201693
+"The Sheikhupura area","05989",0.209149074300922
+"The Sialkot area","05997",0.265402452731547
+"The Lahore / Ferozewala / Lahore area","06009",0.313936986415021
+"The Jammu area","06018",0.166986220037195
+"The Rajkot area","06040",0.168015550995759
+"The Kasur area","06051",0
+"The Amritsar area","06056",0.0383606817653003
+"The Bikaner area","06065",0.0487523080365835
+"The Jodhpur area","06091",0.224702273631852
+"The Jalandhar area","06105",0.0892443631124771
+"The Ahmedabad area","06134",0.196373696816477
+"The Bhavnagar area","06136",0.119340403994802
+"The Ludhiana area","06141",0.363246761268686
+"The Anand area","06171",0.105364385438048
+"The Udaipur area","06174",0.191820317569803
+"The Surat area","06191",0.266286016817128
+"The Ajmer area","06198",0.154235537904307
+"The Vadodara area","06199",0.207887861319522
+"The Patiala area","06201",0.13339978185636
+"The Chandigarh area","06209",0.430649576107602
+"The Vapi area","06238",0
+"The Ambala area","06240",0.0962687239142295
+"The Vasai-Virar area","06252",0.143023651861895
+"The Mumbai / Thane / Navi Mumbai area","06257",0.684168803016288
+"The Jaipur area","06270",0.244332744792789
+"The Rohtak area","06273",0.198551085537673
+"The Kalyan-Dombivli / Ulhasnagar area","06278",0.193971020944264
+"The Panvel area","06281",0.492199644312992
+"The Yamunanagar / Jagadhari area","06283",0.231097994004484
+"The Panipat area","06285",0.307671440880049
+"The Ghaziabad / Gurugram / Noida area","06312",0.473241109538708
+"The Saharanpur area","06314",0.204040521909192
+"The Nashik area","06317",0.237851105605404
+"The Lampur / Bankner / Rasoi area","06323",0.0458342155749832
+"The Alwar area","06334",0.190011930163924
+"The Dehradun area","06337",0.26968094549824
+"The Ürümqi / Xinshi / Saybagh area","06357",0.157388659390455
+"The Kota area","06359",0.311851802798811
+"The Muzaffarnagar area","06362",0.164442077185716
+"The Pune / Pimpri-Chinchwad area","06363",0.439570798065306
+"The Haridwar area","06369",0.0264785291972409
+"The Meerut area","06371",0.228517262307354
+"The Malegaon area","06382",0
+"The Dhule area","06397",0.155349356921997
+"The Korla area","06405",0
+"The Bulandshahr area","06417",0
+"The Ujjain area","06424",0.0666567794907201
+"The Mathura area","06442",0.0287960515844057
+"The Indore area","06445",0.681411523746305
+"The Ahmednagar area","06448",0.302140437269351
+"The Kolhapur area","06464",0.416194049345071
+"The Aligarh area","06469",0.105904571487308
+"The Jalgaon area","06481",0.0849096800427446
+"The Moradabad area","06489",0
+"The Chhatrapati Sambhajinagar area","06491",0.510235243786842
+"The Agra area","06492",0.306270290729569
+"The Sangli area","06504",0.375624653830164
+"The Belagavi area","06520",0.490656727647986
+"The Rampur area","06535",0.180124264338833
+"The Firozabad area","06539",0.071892209018039
+"The Gwalior area","06561",0.0675340881405557
+"The Bareilly area","06588",0.0983815330019004
+"The Dharwad area","06591",0.667146678171616
+"The Bhopal area","06603",0.27554629758361
+"The Mangaluru area","06630",0.295233640015609
+"The Solapur area","06641",0.377415075859235
+"The Jhansi area","06645",0.27974897108562
+"The Akola area","06668",0.343859679168709
+"The Farrukhabad area","06675",0.103651439427544
+"The Shahjahanpur area","06681",0.00239653301452292
+"The Latur area","06690",0.604747185313892
+"The Kannur area","06723",0.700746783452883
+"The Davanagere area","06734",0.526706230845376
+"The Thalassery / Mahe / Chokli area","06744",0.641835790207323
+"The Sagar area","06745",0.042169832785808
+"The Amravati area","06750",0.25068806426994
+"The Nanded area","06757",0.152054249075293
+"The Kalaburagi area","06762",0.247229399101736
+"The Kozhikode area","06785",0.555038534037653
+"The Kanpur / Unnao area","06793",0.13629007541753
+"The Cranganore / Thriprayar / Chavakkad area","06823",0.492800937908191
+"The Ballari area","06840",0.481127285229847
+"The Lucknow / Barabanki area","06848",0.376144523859722
+"The Thrissur area","06856",0.63271532319193
+"The Kochi / Ernakulam area","06869",0.555283607863091
+"The Mysuru area","06871",0.536788149088886
+"The Nagpur area","06884",0.361748617242029
+"The Alappuzha area","06889",0.720752191236263
+"The Bahraich area","06902",0
+"The Kollam area","06912",0.656487944064213
+"The Jabalpur area","06914",0.0807792245143669
+"The Kottayam area","06916",0.656942251194814
+"The Coimbatore area","06935",0.273315177649599
+"The Hyderabad / Sikandarabad area","06945",0.550643869220306
+"The Bengaluru area","06963",0.661881467899203
+"The Satna area","06974",0
+"The Thiruvananthapuram area","06994",0.71710899487924
+"The Tiruppur area","06997",0.0816143050909836
+"The Faizabad area","07018",0
+"The Colachel / Parassala / Thengapattinam area","07033",0.0426764003299639
+"The Sultanpur area","07036",0
+"The Prayagraj area","07048",0.414611073262596
+"The Erode area","07049",0.262671487666534
+"The Salem area","07093",0.408976352880678
+"The Warangal area","07102",0.539569204934476
+"The Gyanpur / Khamaria / Gopiganj area","07129",0
+"The Madurai area","07137",0.337280374584142
+"The Jaunpur area","07154",0
+"The Mirzapur area","07166",0.0128208718956207
+"The Gorakhpur area","07183",0.077075967753348
+"The Tiruchirappalli area","07188",0.428433077871902
+"The Azamgarh area","07194",0.0721307402655882
+"The Durg / Bhilai area","07196",0.0622854472726179
+"The Vellore area","07200",0.442005872964819
+"The Varanasi area","07201",0.42117328973149
+"The Tirupati area","07221",0.301124932317223
+"The Raipur area","07236",0.32428865440187
+"The Deoria area","07249",0
+"The Bilaspur area","07279",0.246410213996959
+"The Guntur area","07290",0.450033632664008
+"The Nellore area","07291",0.334151783476938
+"The Vijayawada area","07314",0.469742548100252
+"The Bettiah area","07343",0.0244473862848495
+"The Puducherry area","07346",0.672288029429652
+"The Chennai / Tambaram / Avadi area","07349",0.550506023276905
+"The Barharia area","07352",0.00394262778263002
+"The Ballia area","07369",0.0341466861189933
+"The Maharajganj area","07379",0
+"The Kathmandu / Bhaktapur area","07394",0.838413358169693
+"The Baniapur / Jalalpur / Bishanupur area","07426",0
+"The Chhapra area","07435",0
+"The Taraiya / Marhaura area","07438",0
+"The Colombo / Kaduwela / Moratuwa area","07447",0.356918285513922
+"The Dighwara area","07458",0
+"The Rajamahendravaram area","07466",0.304501311484562
+"The Balua / Runisaidpur area","07489",0
+"The Sitamarhi area","07500",0.025379446561966
+"The Patna / Danapur area","07503",0.389109014037441
+"The Hajipur / Muzaffarpur area","07504",0.0230121275357377
+"The Galle / Matara area","07507",0.304673696014491
+"The Kakinada area","07530",0.146339276230685
+"The Gaya area","07536",0.327131007150492
+"The Kandy area","07551",0.113050096828804
+"The Bakhtiyarpur / Khusrupur / Barh area","07552",0
+"The Darbhanga area","07569",0.0259599302499465
+"The Bihar Sharif area","07580",0.103042917927622
+"The Garhpura / Khudabandpur / Bibhutpur area","07600",0
+"The Visakhapatnam area","07616",0.241644380313591
+"The Begusarai area","07627",0.182684059353751
+"The Ranchi area","07636",0.393493552798784
+"The Rourkela area","07640",0.258181021063454
+"The Munger area","07671",0.0920967113210181
+"The Biratnagar / Itahari area","07686",0.467650132534458
+"The Bokaro area","07704",0.0163675748214324
+"The Dhanbad area","07725",0.14283806693031
+"The Brahmapur area","07728",0.338426153643154
+"The Kotwali area","07732",0
+"The Jamshedpur area","07737",0.077724659903718
+"The Darjeeling area","07747",0.211552291912863
+"The Asansol area","07758",0.107413195703473
+"The Siliguri area","07772",0.0746168436710374
+"The Cuttack area","07776",0.42668136252775
+"The Bhubaneshwar area","07778",0.301314652628964
+"The Rajmahal / Udhwa area","07787",0.0374296324610668
+"The Jalpaiguri area","07800",0.582144809171845
+"The Dhulian / Aurangabad / Farakka area","07809",0.0204735522295452
+"The Chapainawabganj area","07844",0.115997856184061
+"The Kharagpur area","07856",0.441794103833458
+"The Ulaanbaatar area","07857",0.524519079234089
+"The Berhampore area","07876",0.0980930534095133
+"The Rajshahi area","07900",0.179587718798908
+"The Tamluk / Kolaghat / Bagnan area","07910",0.0331958486189021
+"The Rangpur area","07912",0.29742917568327
+"The Jangalpara area","07933",0.00840140112339653
+"The Kolkata / Howrah / Maheshtala area","07939",0.27654474443141
+"The Krishnanagar area","07944",0.130338153628765
+"The Bogura area","07973",0.406380010886091
+"The Jaynagar Majilpur area","07994",0.191975721365463
+"The Jashore area","08040",0.393765950515718
+"The Belkuchi area","08041",0.130930934219577
+"The Khulna area","08075",0.387510280348216
+"The Mymensingh area","08081",0.347617095625657
+"The Savar area","08083",0.0979605013629716
+"The Louhajang / Dohar / Nawabganj area","08087",0.112448894352397
+"The Dhaka / Narayanganj / Gazipur area","08091",0.425893610429023
+"The Kishoreganj area","08109",0.248810596267388
+"The Guwahati area","08123",0.178607560881881
+"The Bhairab / Raipura / Ashuganj area","08134",0.102191600239164
+"The Cumilla / Noakhali / Lakshmipur area","08139",0.0611439997740553
+"The Brahmanbaria area","08155",0.164382122529085
+"The Faridganj / Hajiganj area","08157",0
+"The Shillong area","08162",0.417754866953667
+"The Agartala area","08175",0.131855538597228
+"The Sylhet area","08184",0.407266393559294
+"The Chattogram area","08226",0.522026889877948
+"The Silchar area","08230",0.261382283476948
+"The Chakaria area","08251",0.0532691160410127
+"The Imphal area","08271",0.0447785408181979
+"The Xining / Chengxi / Chengbei area","08281",0.113421300733508
+"The Lanzhou / Anning / Chengguan area","08312",0.474392077296783
+"The Yinchuan / Jinfeng / Xixia area","08328",0.0207362420604444
+"The Mandalay area","08351",0.629576115447418
+"The Baotou / Hondlon District / Qingshan area","08371",0.351799205222548
+"The Jiuyuan / Donghe area","08387",0.252532486823105
+"The Dongsheng area","08429",0
+"The Yangon area","08436",0.649062057133047
+"The Tianshui / Qinzhou area","08448",0.391166940005497
+"The Hohhot / Xincheng / Huimin area","08455",0.0786696935372298
+"The Chengdu / Tianfu New Area / Qingyang area","08496",0.276556602004468
+"The Deyang / Jingyang area","08512",0.05502060635918
+"The Mianyang / Fucheng / Youxian area","08516",0.0438753266452896
+"The Meishan / Dongpo area","08529",0
+"The Baoji area","08539",0.0371262695621997
+"The Leshan / Shizhong area","08541",0
+"The Chiang Mai area","08578",0.491366102270013
+"The Datong / Yungang / Pingcheng area","08593",0.0613313352811079
+"The Zigong / Ziliujing / Da'an area","08624",0.279125155603202
+"The Suining / Chuanshan area","08629",0.0259159461547217
+"The Xi'an / Xianyang / Gaoxin area","08662",0.222958064049169
+"The Bazhong City / Bazhou District area","08665",0.179931181451533
+"The Shunqing / Jialing / Gaoping area","08667",0.0597277167338271
+"The Zhangjiakou / Qiaodong / Qiaoxi area","08673",0.474703533555851
+"The Kunming / Guandu / Panlong area","08676",0.425625341561098
+"The Yuxi / Hongta area","08705",0.0357861278876063
+"The Taiyuan / Yingze / Xiaodian area","08737",0.171526534969864
+"The Qiqihar / Tiefeng / 建华区 area","08761",0.11112185598845
+"The Yongchuan area","08765",0.0244975389675133
+"The Qujing / Zhanyi / Qilin area","08780",0.0197663539361124
+"The Beibei area","08788",0.235765674988094
+"The Dazhou / Dachuan / Tongchuan area","08796",0.000509045853747761
+"The Chongqing / Shapingba area","08809",0.13542700724397
+"The Linfen / Yaodu area","08816",0.0338715851767355
+"The Liupanshui / Zhongshan area","08843",0.00369387269196014
+"The Ankang area","08848",0.037189657090517
+"The Yuncheng / Yanhu area","08872",0.0234732594033802
+"The Beijing / Shijingshan / Mentougou area","08909",0.351242419513762
+"The Medan / Binjai area","08913",0.36420192880228
+"The Bangkok / Nonthaburi / Pak Kret area","08935",0.167532320062735
+"The Shijiazhuang / Luquan / Xinhua area","08939",0.111475032130784
+"The Chifeng / Hongshan / Songshan area","08945",0.107362527032245
+"The Wanzhou area","08955",0
+"The Baoding / Qingyuan area","08981",0.0999307042346113
+"The Changzhi area","09012",0.30510776891386
+"The Anshun area","09021",0.113541284732711
+"The Honghuagang area","09042",0.304537465729264
+"The Langfang / Guangyang / Anci area","09061",0.0724102868264534
+"The Jincheng / Chengqu / Zezhou area","09066",0
+"The Guiyang / Baiyun / 观山湖区 area","09088",0.120411077670366
+"The Xingtai area","09091",0.107220810878266
+"The Luoyang / Jianxi District / Xigong area","09092",0.183261401416593
+"The Shiyan / Maojian / Zhangwan area","09094",0.0237444680946072
+"The Handan / Fuxing / Congtai area","09144",3.50165275619341e-05
+"The Jiaozuo / Zhongzhan / Jiefang area","09145",0.0256844942466542
+"The Tianjin / Nankai / Hedong area","09155",0.263593272666927
+"The Hengshui / Taocheng area","09161",0.070930540498301
+"The Tongliao / Horqin area","09164",0
+"The Enshi area","09169",0.00577735793043771
+"The George Town / George Town area","09174",0.657880350957043
+"The Anyang / Long'an / Anyang area","09189",0.0890654154160151
+"The Fengrun area","09208",0.203629034951728
+"The Xinxiang / Weibin / Hongqi area","09224",0.120729801091036
+"The Padang area","09226",0.411797552544614
+"The Tangshan / Fengnan / Lunan area","09229",0.330753812220581
+"The Binhai New Area / Jinnan area","09230",0.0231743002982364
+"The Zhengzhou / Jinshui District / Erqi area","09245",0.142535025998377
+"The Cangzhou / Xinhua / Yunhe area","09248",0.0445747632087294
+"The Dengzhou area","09282",0
+"The Dezhou / Decheng area","09292",0.0137909227029343
+"The Ipoh area","09314",0.357837165751771
+"The Nanyang / Wolong / Wancheng area","09316",0.0793685430673431
+"The Puyang / Puyang / Hualong District area","09331",0.487184364352366
+"The Pingdingshan / Zhanhe / Weidong area","09333",0.156927351830468
+"The Fuxin / Xihe / Haizhou area","09350",0.0426571709729923
+"The Kaifeng / Yuwangtai / Gulou area","09351",0.231632331551839
+"The Harbin / Daowai / Daoli area","09357",0.236398700155883
+"The Xiangyang / Fancheng / Xiangcheng area","09362",0.358711821394475
+"The Xuchang / Weidu area","09378",0.00551765760677383
+"The Liaocheng area","09382",0.0788806445259513
+"The Hanoi / Từ Sơn area","09386",0.532965841349336
+"The Kuala Lumpur / Kajang / Klang area","09390",0.37574982478069
+"The Yichang / Yiling District area","09394",0.316696321864059
+"The Qinhuangdao / Haigang area","09396",0.128716140477925
+"The Pekanbaru area","09398",0.512733007031371
+"The Jinzhou / Taihe / Linghe area","09420",0.0429369668670209
+"The Huludao / Longgang / Lianshan area","09434",0.00925440343550217
+"The Luohe / Yancheng / Yuanhui area","09454",0.336622294615444
+"The Jinan / Changqing / Lixia area","09481",0.242130341250489
+"The Yingkou area","09506",0.00133520073973391
+"The Changchun / Kuancheng / Chaoyang area","09512",0.216517258374434
+"The Malacca City area","09522",0.176192683071577
+"The Siping / Tiexi / Tiedong area","09541",0.0628741775642732
+"The Hegang / Xiangyang / Nanshan area","09543",0.0350677056716392
+"The Hải Phòng area","09547",0.426080590431006
+"The Zhumadian / Yicheng area","09550",0.000985612934297907
+"The Binzhou area","09555",3.30717536793099e-05
+"The Panjin / Xinglongtai area","09566",0
+"The Zhoukou / Shangshui / Chuanhui area","09567",0.0103787288375665
+"The Jingzhou / Shashi / Jingzhou area","09575",0.0273893519962146
+"The Tai'an / Taishan District / Daiyue area","09587",0.167976132938668
+"The Kenli / Dongying area","09606",0.0530800706422334
+"The Shangqiu / Suiyang / Liangyuan area","09609",0.0337886352809109
+"The Shenyang / Tiexi / Yuhong area","09619",0.146641581400889
+"The Jining / Jining High-Tech Zone area","09620",0.125676344380478
+"The Changde / Dingcheng / Wuling area","09628",0.0150501470876967
+"The Zibo / Zhāngdiàn District / Boshan area","09635",0.100914005802317
+"The Jiamusi / Jiao / Qianjin area","09650",0
+"The Nanning / Qingxiu / Xixiangtang area","09663",0.294310841060515
+"The Yingkou / Zhanqian / Xishi area","09665",0
+"The Fushun / Shuncheng / Wanghua area","09681",0
+"The Anshan / Lishan / Tiedong area","09683",0.232016316303623
+"The Liaoyang / Baita / Wensheng area","09695",0.202333636033223
+"The Jilin City / Chuanying / Longtan area","09700",0.0810929190349679
+"The Bozhou area","09703",0.00449472985178992
+"The Liuzhou / Chengzhong / Liubei area","09720",0.180215916752339
+"The Tengzhou area","09743",0.162054489746485
+"The Phnom Penh / Ta Khmao area","09750",0.617120965480349
+"The Jambi area","09760",0.26526471225011
+"The Guilin / Lingui / Qixing area","09773",0.18922568122844
+"The Benxi / Mingshan / Pingshan area","09774",0.114588502994773
+"The Yiyang / Heshan District area","09775",0.274062124900936
+"The Xiaogan / Xiaonan area","09776",0.0946384327557494
+"The Johor Bahru area","09783",0.395989965142285
+"The Shaoyang / Beita / Shuangqing area","09786",0
+"The Singapore / Pasir Gudang area","09792",0.746951933549281
+"The Weifang / Fangzi area","09807",0.329849178358422
+"The Loudi / Louxing area","09818",0.0269107450202315
+"The Fuyang / Yingzhou / Yingquan area","09820",0.134819430966801
+"The Yueyang / Yueyanglou area","09821",0.0454671168007318
+"The Dalian / Ganjingzi / Shahekou area","09828",0.107659207951211
+"The Batam City area","09831",0.509671414352836
+"The Huaibei / Xiangshan / Lieshan area","09836",0.108613236902365
+"The Wuhan / Dongxihu District / Hongshan area","09838",0.29262250628515
+"The Xuzhou / Quanshan / Yunlong area","09847",0.14769262491485
+"The Anqiu area","09866",0.0596946069721795
+"The Linyi / Linyi National High-Tech Zone area","09885",0.219990257151707
+"The Long Xuyên area","09890",0.240353319113101
+"The Beihai / Yinhai / Haicheng area","09902",0.0902263359540914
+"The Changsha / Yuhua / Yuelu area","09904",0.226947303336749
+"The Suzhou / Yongqiao area","09908",0.233860038810753
+"The Khabarovsk area","09910",0.647755664107204
+"The Perth / Joondalup area","09920",0.39305720984057
+"The Palembang area","09930",0.472983739280188
+"The Cần Thơ area","09932",0.458570747765264
+"The Zucheng area","09940",0.0902679920889314
+"The Yitang area","09955",0
+"The Huanggang / Ezhou / Echeng District area","09967",0.0124479264161337
+"The Zhuzhou / Tianyuan / Lusong area","09968",0.0237033548541434
+"The Yulin / Yuzhou area","09969",0.124682450848369
+"The Hengyang / Zhengxiang / Shigu area","09976",0.178401335155585
+"The Mudanjiang / Aimin / Yangming District area","09983",0.220021480869877
+"The Fushan / Zhifu area","09984",0.253982156100944
+"The Bandar Lampung area","09993",0.238672237218524
+"The Huangshi / Xialu / Huangshigang area","10013",0.168696737673494
+"The Tianjia‘an / Xiejiaji / Datong area","10018",0.0938723187138362
+"The Baishan / Hunjiang area","10036",0.569898096159309
+"The Rizhao / Donggang area","10038",0.0973450884658056
+"The Dandong / Sinuiju / Zhenxing area","10039",0.0425787699807483
+"The Bengbu / Bengshan / Yuhui area","10043",0.196518452679103
+"The Qingdao / Chengyang / Jimo area","10045",0.283197616717519
+"The Suqian / Sucheng District area","10049",0.585422192985379
+"The Liling area","10052",0
+"The Huangdao District area","10064",0.190287451998729
+"The Lu'an / Yu‘an / Jin‘an area","10066",0.012157589657479
+"The Ho Chi Minh City / Thủ Đức / Thủ Dầu Một area","10074",0.502120335243357
+"The Leiyang area","10081",0.103517162216255
+"The Đà Nẵng area","10101",0.458371830500386
+"The Pingxiang / Xiangdong / Anyuan area","10104",0.0294575264082831
+"The Cilegon area","10115",0.354689788555726
+"The Lianyungang / Haizhou District area","10117",0.0076101021856153
+"The Zhanjiang / Xiashan / Potou area","10124",0.382337347713919
+"The Weihai / Huáncuì District area","10139",0.135047639795
+"The Jakarta / Bekasi / Tangerang area","10147",0.426796589418042
+"The Hefei / Shushan / Yaohai area","10167",0.450045529237903
+"The Chenzhou / Beihu area","10174",0.336931612226814
+"The Maoming / Maonan area","10178",0.0756270359516918
+"The Yichun / Yuanzhou area","10186",0
+"The Qiongshan District / Xiuying District area","10213",0.010332137407787
+"The Huaiyin District / Huaiyin / Qingjiangpu area","10228",0.0291147304607736
+"The Jiujiang / Xunyang / Lianxi area","10231",0.382142087591098
+"The Xinyu / Yushui area","10270",0.0174947636481035
+"The Cipanas / Palasari / Gadog area","10278",0.0182355508920442
+"The Anqing / Yingjiang / Daguan area","10293",0.121814479794646
+"The Nanchang / Nanchang / Xihu area","10304",0.323256110546683
+"The Zhaoqing / Duanzhou area","10306",0.328339148222369
+"The Yangjiang / Jiangcheng / Yangdong area","10323",0.0531681902821222
+"The Qingyuan / Qingcheng / Qingxin area","10334",0.145731814256224
+"The Bandung / Cimahi area","10338",0.41259371832709
+"The Nanjing / Luhe / Pukou area","10348",0.244581794539707
+"The Ma'anshan / Huashan / Yushan area","10369",0.105039054988199
+"The Tarogong / Garut area","10384",0.158559133389646
+"The Wuhu / Jiujiang / Jinghu area","10387",0.0410857906063743
+"The Shenzhen / Guangzhou / Foshan area","10392",0.176547892920296
+"The Huadu area","10395",0.0872634829421294
+"The Yancheng / Yandu area","10397",0.0180195222060285
+"The P'yŏngyang area","10414",0.17006039678832
+"The Yangzhou / Guangling District area","10428",0.0651868262179699
+"The Tasikmalaya area","10442",0.0631283604407897
+"The Ganzhou / Ganxian / Zhanggong area","10455",0.478908776125465
+"The Zhenjiang / Runzhou District area","10462",0.436199669294779
+"The Fuzhou / Linchuan area","10471",0.0368218099228844
+"The Zhongshan area","10491",0.116248912389194
+"The Cirebon area","10508",0.264246245878955
+"The Kuningan area","10510",0.0658593958290171
+"The Zhuhai / Macau / Xiangzhou area","10522",0.391683589322406
+"The Chŏngjin area","10531",0
+"The Changzhou / Zhonglou / Xinbei area","10568",0.289498077840762
+"The Cilacap area","10580",0.480307005735885
+"The Brebes / Tegal / Slawi area","10590",0.0124392808471395
+"The Jingjiang area","10597",0.0281995505421744
+"The Tuen Mun / Tin Shui Wai / Yuen Long area","10600",0.631463147585197
+"The Jiangyin area","10601",0.0455428610018705
+"The Huizhou / Huicheng area","10609",0.267690556178097
+"The Purwokerto / Purbalingga area","10615",0.220503950351652
+"The Hong Kong / Kowloon area","10621",0.762457932686172
+"The Zhangjiagang area","10627",0.0780854300825509
+"The Suzhou / Wuxi / Suzhou Industrial Park area","10630",0.168401547091294
+"The Huiyang area","10636",0.162337366460858
+"The Ma On Shan / Sha Tin area","10637",0.703666412239768
+"The Shangrao / Guangxin / Xinzhou area","10642",0.20646395746532
+"The Nantong / Chongchuan District area","10651",0.22852121439404
+"The Pekalongan area","10670",0.0697237343145612
+"The Changshu area","10673",0.246703973595214
+"The Pontianak area","10684",0.169052348258416
+"The Xingning area","10690",0.239258115720842
+"The Quzhou / Kecheng District area","10696",0.0557396338014745
+"The Hangzhou / Shaoxing / Xiaoshan District area","10714",0.294637933517452
+"The Kendal area","10715",0.00533605792613304
+"The Seoul / Incheon / Suwon area","10716",0.706816993820306
+"The Meizhou / Meixian / Meijiang area","10720",0.276469545247047
+"The Magelang area","10732",0.459565797653428
+"The Shengze / Pingwang / Wangjiangjing area","10733",0.00179290246700282
+"The Yogyakarta / Klaten area","10737",0.525530711122245
+"The Taicang area","10742",0.111422237053737
+"The Semarang / Ungaran area","10752",0.688707858190005
+"The Shanghai / Pudong / Fengxian District area","10753",0.323100975421145
+"The Jiaxing / Nanhu District area","10756",0.0301328483469335
+"The Jinhua / Wucheng District area","10774",0.322721648934525
+"The Surakarta / Boyolali / Karanganyar area","10778",0.44591666667837
+"The Jieyang / Shantou / Chaozhou area","10785",0.0772360926178487
+"The Zhuji area","10786",0.00356980129898037
+"The Jepara area","10801",0.123142939697061
+"The Yiwu area","10807",0.0369886134436934
+"The Kuching area","10811",0.213953637473931
+"The Kudus area","10822",0.118621717843092
+"The Cixi area","10845",0.0185245040236168
+"The Chenghai area","10858",0.100160199440579
+"The Yuyao area","10867",0.0169247769771153
+"The Zhangzhou / Xiamen City / Xiangcheng area","10883",0.195285990348213
+"The Cheongju-si area","10898",0.560130191097137
+"The Ningbo / Yinzhou District area","10903",0.181162351074837
+"The Tulungagung area","10905",0.0336174784119137
+"The Daejeon area","10915",0.780748062120863
+"The Fuzhou / Cangshan / Jin'an area","10951",0.234453577726915
+"The Quanzhou / Licheng / Fengze area","10952",0.0546365182046485
+"The Jeonju area","10954",0.812079967719503
+"The Wenzhou / Ouhai / Longwan area","10959",0.141065078488771
+"The Putian / Xiuyu / Chengxiang area","10967",0.0416604622204061
+"The Surabaya / Sidoarjo / Bangil area","10987",0.420549100840987
+"The Yueqing area","10988",0.305683855363254
+"The Longgang area","10989",0.114285360642902
+"The Gwangju area","10998",0.768828436572129
+"The Malang / Batu area","11000",0.526948303099181
+"The Taizhou / Jiaojiang District area","11009",0.0263258706672422
+"The Ambulu / Wuluhan / Balung area","11049",0.06761743912604
+"The Daegu / Gyeongsan-si area","11050",0.809828379496164
+"The Jember area","11055",0.300785070118303
+"The Changwon area","11069",0.353362783924221
+"The Ulsan area","11084",0.51848030047937
+"The Busan area","11086",0.782933597399993
+"The Hsinchu area","11096",0.57620485776503
+"The Taichung area","11099",0.659220135273119
+"The New Taipei / Taipei / Taoyuan area","11101",0.708467891838878
+"The Tainan area","11108",0.633987011379979
+"The Denpasar area","11113",0.541441270242821
+"The Kaohsiung area","11114",0.600758986275672
+"The Banjarmasin area","11115",0.607868760940645
+"The Mataram area","11133",0.704968375714988
+"The Selong / Kecamatan Masbagik area","11138",0.229086661953128
+"The Kota Kinabalu area","11139",0.159169308674953
+"The Sapporo / Ebetsu area","11144",0.868873780766255
+"The Fukuoka / Kasuga / Chikushino area","11150",0.752677041329116
+"The Kitakyushu / Shimonoseki / Nogata area","11151",0.596058773670189
+"The Balikpapan area","11165",0.645982983170481
+"The Samarinda area","11174",0.707499434247828
+"The Dagupan area","11180",0.274663013210343
+"The Kumamoto area","11182",0.685645280925008
+"The Hiroshima / Hatsukaichi area","11188",0.621831211759127
+"The Baguio area","11193",0.650730445289402
+"The Angeles / San Fernando / Mabalacat area","11213",0.425578592255891
+"The Quezon City / Manila / Caloocan area","11218",0.695083529778069
+"The Kagoshima area","11223",0.820729905096394
+"The Okayama / Kurashiki area","11245",0.641471919815801
+"The Lipa / Santo Tomas / Tanauan area","11261",0.408376709690736
+"The Himeji area","11268",0.610004183859268
+"The Makassar area","11270",0.655589425212179
+"The Kanazawa / Hakusan / Nonoichi area","11277",0.739635024873512
+"The Osaka / Kobe / Kyoto area","11283",0.856040771955958
+"The Naha / Okinawa / Uruma area","11289",0.711535872961103
+"The Otsu / Kusatsu / Ritto area","11311",0.737704497808695
+"The Nara / Kashihara / Ikoma area","11321",0.710932373749485
+"The Nagoya / Gifu / Ichinomiya area","11324",0.683504844682573
+"The Iloilo City area","11343",0.543708834094534
+"The Sendai / Natori / Tagajo area","11345",0.847409584482556
+"The Takasaki / Maebashi / Isesaki area","11360",0.677718721476131
+"The Zamboanga City area","11361",0.406982956083757
+"The Toyohashi / Toyokawa area","11362",0.606894335507757
+"The Bacolod / Talisay area","11365",0.470454193628458
+"The Tokyo / Yokohama / Kawasaki area","11383",0.840936339791272
+"The Kupang area","11396",0.527372591469464
+"The Adelaide area","11397",0.459792363411233
+"The Cebu City / Lapu-Lapu / Mandaue area","11400",0.652535346764767
+"The Cagayan de Oro area","11432",0.578192136669402
+"The Davao City area","11459",0.694258578064424
+"The Melbourne area","11463",0.640253849760017
+"The Sydney area","11484",0.554949740630173
+"The Brisbane / Logan City area","11508",0.456697568967395
+"The Auckland area","11528",0.657743958572769

@@ -1,0 +1,202 @@
+"name","hdc","value"
+"The Honolulu / Waipahu / Pearl City area","00001",0.449403971542013
+"The San Jose / San Francisco / Oakland area","00011",0.30639619399624
+"The Los Angeles / Long Beach / Anaheim area","00017",0.169233430794038
+"The Tijuana / San Diego / Chula Vista area","00024",0.0950674845538289
+"The Bakersfield area","00037",0.0154585967052636
+"The Fresno area","00056",0.0160034987751373
+"The Sacramento / Elk Grove / Roseville area","00058",0.053731960933881
+"The Las Vegas / Henderson / North Las Vegas area","00086",0.00186543863929736
+"The Phoenix / Glendale / Scottsdale area","00092",0.0224233553788163
+"The Mesa / Chandler / Gilbert area","00095",0.0412957618707175
+"The Tucson area","00099",0.0438629072219753
+"The Guadalajara / Zapopan / Tlaquepaque area","00102",0.0697864799759472
+"The Portland / Vancouver / Gresham area","00114",0.110401000453226
+"The Ciudad Juárez / El Paso area","00152",0.00849796464116005
+"The Seattle / Bellevue area","00167",0.281606813959069
+"The Mexico City / Ecatepec / Nezahualcóyotl area","00168",0
+"The Vancouver / Surrey / Burnaby area","00203",0.550176543306143
+"The Salt Lake City / West Valley City area","00209",0.0475405426554661
+"The Albuquerque area","00213",0.00616130908092006
+"The San Antonio area","00271",0.0361247704526354
+"The Denver / Aurora / Lakewood area","00294",0.0623806988875937
+"The Austin / Round Rock area","00295",0.154986613635822
+"The Houston / Pasadena area","00332",0.105137674190174
+"The Fort Worth area","00336",0.0144863270366731
+"The Arlington / Grand Prairie area","00340",0
+"The Dallas / Plano / Irving area","00352",0.0643051751862855
+"The Oklahoma City area","00370",0.00501238906477836
+"The Calgary area","00383",0.319521182044364
+"The Managua area","00386",0.675668884689063
+"The Edmonton / St. Albert area","00415",0.449371060918505
+"The Omaha area","00429",0.00190693743137546
+"The St. Louis area","00491",0.0276012064724182
+"The Saint Petersburg / Clearwater area","00501",0.0316541238112892
+"The Tampa area","00515",0.0397716160525673
+"The Miami / Hialeah / Fort Lauderdale area","00558",0.0303688667254314
+"The Minneapolis / Saint Paul area","00564",0.193243192115315
+"The Atlanta area","00568",0.0983668862953101
+"The Orlando / Kissimmee area","00570",0
+"The Jacksonville area","00595",0.0177642840104991
+"The Bogota / Soacha area","00615",0.849255121005813
+"The Winnipeg area","00620",0.342514379615523
+"The Louisville area","00622",0.0572544763824127
+"The Chicago / Aurora / Naperville area","00633",0.298627480173315
+"The Indianapolis area","00650",0.0426601228003276
+"The Milwaukee area","00674",0.151361624580492
+"The Columbus area","00720",0.0737867975068255
+"The Detroit / Windsor / Sterling Heights area","00753",0.030383103030108
+"The Cleveland area","00774",0.0720079497769754
+"The Santiago de los Caballeros area","00779",0
+"The Santo Domingo area","00795",0
+"The Pittsburgh area","00797",0.286445397498698
+"The Norfolk / Portsmouth area","00821",0.0321782996230812
+"The Washington / Arlington / Alexandria area","00829",0.146086003833217
+"The Baltimore / Dundalk / Towson area","00849",0.329467466603373
+"The Toronto / Mississauga / Brampton area","00852",0.557521206193615
+"The Buffalo / North Tonawanda / Tonawanda area","00861",0.0916831945088981
+"The Philadelphia / Camden area","00885",0.030477997362925
+"The Santiago area","00909",0
+"The New York / Newark / Jersey City area","00924",0.61984798748344
+"The Ottawa / Gatineau area","00976",0.553594572520507
+"The Montreal / Laval / Longueuil area","01001",0.523664023402837
+"The Boston / Cambridge / Quincy area","01005",0.460724186496737
+"The Cordoba area","01018",0
+"The Quebec / Lévis area","01031",0.440580635327642
+"The Buenos Aires / Lanús / Avellaneda area","01087",0.728160520968288
+"The La Plata / Berisso area","01098",0.446970894824781
+"The São Paulo / Guarulhos area","01289",0.24332640861648
+"The Santos / São Vicente / Guarujá area","01303",0
+"The Rio de Janeiro / Duque de Caxias area","01347",0.019268806459661
+"The Sao Goncalo / Niterói / Itaboraí area","01360",0
+"The Fortaleza / Caucaia / Maracanaú area","01397",0.642545658407489
+"The Freetown / Waterloo area","01490",0
+"The Lisbon / Amadora / Almada area","01540",0.769422921003176
+"The Porto / Vila Nova de Gaia / Rio Tinto area","01559",0
+"The Seville area","01633",0
+"The Dublin area","01658",0.631057273717296
+"The Abidjan / Abobo / Yopougon area","01676",0.184259753652736
+"The Málaga area","01686",0.723977824745831
+"The Madrid / Móstoles / Leganés area","01699",0.615060811128097
+"The Glasgow area","01707",0.00492154980907646
+"The Bilbao / Barakaldo area","01735",0.632593586025013
+"The Edinburgh area","01746",0
+"The Liverpool area","01747",0.00556738595970889
+"The Bristol area","01768",0
+"The Manchester / Salford area","01775",0
+"The Birmingham / Wolverhampton area","01798",0
+"The Leeds / Bradford area","01819",0
+"The Newcastle upon Tyne area","01828",0.202357294225282
+"The Sheffield area","01836",0
+"The Nottingham area","01854",0
+"The Zaragoza area","01874",0
+"The Oran / Bir El Djir area","01886",0
+"The Bordeaux area","01893",0
+"The Accra / Tema area","01900",0.0674073359693774
+"The London / Westminster / City of London area","01910",0.156692583324929
+"The Valencia / Torrent area","01911",0.341393369225051
+"The Toulouse area","01996",0.501649381494716
+"The Paris / Argenteuil area","02031",0.811156042862776
+"The Barcelona / l'Hospitalet de Llobregat area","02039",0.516616137329823
+"The Lille area","02070",0.579714580940383
+"The Blida area","02082",0
+"The Algiers / Kouba area","02087",0.00359647674125568
+"The Boumerdes area","02107",0
+"The Rotterdam / The Hague / Zoetermeer area","02118",0
+"The Antwerp area","02127",0.439434854804232
+"The Brussels area","02133",0.793287025466491
+"The Amsterdam area","02163",0
+"The Utrecht area","02179",0
+"The Lyon / Villeurbanne area","02185",0.662913536214056
+"The Marseille area","02229",0.537158997160501
+"The Essen / Duisburg / Bochum area","02288",0.481546448600507
+"The Dusseldorf / Wuppertal / Solingen area","02289",0.653478021442303
+"The Cologne / Leverkusen / Bergisch Gladbach area","02313",0.0395255964331933
+"The Bonn area","02329",0.0177042712965322
+"The Dortmund area","02349",0.509558410456317
+"The Turin area","02414",0.792956867737278
+"The Zurich area","02478",0
+"The Stuttgart area","02532",0.00025500983503846
+"The Hanover area","02536",0
+"The Milan / Monza area","02541",0.468222086165441
+"The Hamburg area","02543",0.695597431128284
+"The Genoa area","02545",0.812990296708587
+"The Gothenburg area","02671",0
+"The Nuremberg / Fürth area","02708",0.676015803294844
+"The Copenhagen area","02731",0.732924158130867
+"The Tunis / Ariana / Ben Arous area","02743",0.0240562338985081
+"The Munich area","02759",0.149298377202479
+"The Florence / Prato area","02767",0.577476822585406
+"The Leipzig area","02776",0.778459948943794
+"The Sfax area","02806",0
+"The Douala area","02817",0.0561005121567062
+"The Berlin area","02819",0.784054109872027
+"The Dresden area","02856",0
+"The Rome area","02862",0.727924004921394
+"The Prague area","02889",0.887233278708239
+"The Palermo area","02920",0.645055211964277
+"The Stockholm area","02929",0.726231247321761
+"The Naples / Giugliano in Campania area","02943",0.199564400297091
+"The Poznan area","02969",0.701903281038719
+"The Vienna area","02978",0.84801533133153
+"The Zagreb area","02984",0.768784008604773
+"The Wrocław area","02986",0.864708348881433
+"The Lodz area","03098",0
+"The Budapest area","03133",0.834206109300064
+"The Krakow area","03147",0.641145200777583
+"The Kinshasa / Brazzaville area","03152",0
+"The Warsaw area","03158",0.797801046946894
+"The Helsinki / Vantaa area","03179",0.763596731063544
+"The Riga area","03206",0.012995760686226
+"The Belgrade area","03207",0.795497097253594
+"The Sofia area","03315",0
+"The Thessaloniki area","03321",0
+"The Athens / Piraeus / Peristeri area","03363",0.745479881758375
+"The Izmir area","03477",0.815467637424991
+"The Istanbul area","03523",0.0299807247374452
+"The Kocaeli area","03585",0.751694674033616
+"The Cairo / Giza / Shubra al Khayma area","03884",0.439534133820152
+"The Aghour Al-Kubra / Tukh / Qaha area","03898",0
+"The Kigali area","04131",0.0104824517713323
+"The Khan Yunis / Rafah area","04203",0
+"The Gaza / Jabalia area","04212",0
+"The Tel Aviv / Rishon LeZion / Petah Tikva area","04225",0.8558522835169
+"The Jerusalem / Maale Adumim / Ramallah area","04276",0.539973908772889
+"The Irbid area","04317",0
+"The Amman / Zarqa / Sahab area","04327",0
+"The Nairobi area","04610",0.0124959916433728
+"The Addis Ababa area","04779",0.168659980206773
+"The Abu Dhabi area","05439",0.629205119513294
+"The Dubai / Sharjah / Ajman area","05448",0.256267273660077
+"The Al Ain / Al-Buraimi area","05457",0.0423088819866708
+"The Cranganore / Thriprayar / Chavakkad area","06823",0.00472159403759075
+"The Kochi / Ernakulam area","06869",0.297995265025047
+"The Hyderabad / Sikandarabad area","06945",0.00291160566421054
+"The Chiang Mai area","08578",0.00642805684105898
+"The Bangkok / Nonthaburi / Pak Kret area","08935",0
+"The Johor Bahru area","09783",0.00848131698656163
+"The Singapore / Pasir Gudang area","09792",0.285093280024918
+"The Perth / Joondalup area","09920",0.306389693754398
+"The Jakarta / Bekasi / Tangerang area","10147",0.0196787101980732
+"The Shenzhen / Guangzhou / Foshan area","10392",0
+"The Zhuhai / Macau / Xiangzhou area","10522",0
+"The Tuen Mun / Tin Shui Wai / Yuen Long area","10600",0.095899714165854
+"The Hong Kong / Kowloon area","10621",0.345326289830087
+"The Ma On Shan / Sha Tin area","10637",0.232709396939671
+"The Hsinchu area","11096",0
+"The Taichung area","11099",0.762163835275734
+"The New Taipei / Taipei / Taoyuan area","11101",0
+"The Tainan area","11108",0
+"The Denpasar area","11113",0
+"The Kaohsiung area","11114",0
+"The Fukuoka / Kasuga / Chikushino area","11150",0
+"The Quezon City / Manila / Caloocan area","11218",0
+"The Okayama / Kurashiki area","11245",0.0210935484684769
+"The Osaka / Kobe / Kyoto area","11283",0.0102208103565765
+"The Takasaki / Maebashi / Isesaki area","11360",0
+"The Tokyo / Yokohama / Kawasaki area","11383",0
+"The Adelaide area","11397",0.342403189487446
+"The Melbourne area","11463",0
+"The Sydney area","11484",0.503471508483781
+"The Brisbane / Logan City area","11508",0.338308828330771
+"The Auckland area","11528",0.383905623541717
