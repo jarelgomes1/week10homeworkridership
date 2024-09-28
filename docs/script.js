@@ -1,31 +1,22 @@
-// Map Specification with external JSON data
+// Map Specification
 const mapSpec = {
     "$schema": "https://vega.github.io/schema/vega/v5.json",
     "width": 800,
     "height": 600,
     "data": [
         {
-            "name": "world",
-            "url": "https://raw.githubusercontent.com/jarelgomes1/atlasitdp/refs/heads/main/visualization/output.json", // URL to your JSON file
+            "name": "mapData",
+            "url": "visualizations/mapVisualization.json", // URL to your JSON file
             "format": {
-                "type": "topojson",
-                "feature": "countries" // Adjust this based on your actual topojson structure
+                "type": "json"
             }
         }
     ],
-    // Add projections, scales, and marks here to visualize the map
-    "projections": [
-        {
-            "name": "mercator",
-            "type": "mercator",
-            "scale": 150,
-            "translate": [{"signal": "width / 2"}, {"signal": "height / 2"}]
-        }
-    ],
+    // Additional properties and data as needed
     "marks": [
         {
             "type": "shape",
-            "from": {"data": "world"},
+            "from": {"data": "mapData"},
             "encode": {
                 "enter": {
                     "fill": {"value": "#e0f3db"},
@@ -35,6 +26,14 @@ const mapSpec = {
             "transform": [
                 {"type": "geoshape", "projection": "mercator"}
             ]
+        }
+    ],
+    "projections": [
+        {
+            "name": "mercator",
+            "type": "mercator",
+            "scale": 150,
+            "translate": [{"signal": "width / 2"}, {"signal": "height / 2"}]
         }
     ]
 };
