@@ -6,7 +6,7 @@ const mapSpec = {
     "data": [
         {
             "name": "mapData",
-            "url": "visualizations/mapVisualization.json", // URL to your JSON file
+            "url": "visualizations/mapVisualization.vg.json", // URL to your JSON file
             "format": {
                 "type": "json"
             }
