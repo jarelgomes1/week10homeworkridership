@@ -1,9 +1,42 @@
-// Map Specification
+// Map Specification with external JSON data
 const mapSpec = {
     "$schema": "https://vega.github.io/schema/vega/v5.json",
     "width": 800,
     "height": 600,
-    // Additional properties and data as needed
+    "data": [
+        {
+            "name": "world",
+            "url": "https://raw.githubusercontent.com/jarelgomes1/atlasitdp/refs/heads/main/visualization/output.json", // URL to your JSON file
+            "format": {
+                "type": "topojson",
+                "feature": "countries" // Adjust this based on your actual topojson structure
+            }
+        }
+    ],
+    // Add projections, scales, and marks here to visualize the map
+    "projections": [
+        {
+            "name": "mercator",
+            "type": "mercator",
+            "scale": 150,
+            "translate": [{"signal": "width / 2"}, {"signal": "height / 2"}]
+        }
+    ],
+    "marks": [
+        {
+            "type": "shape",
+            "from": {"data": "world"},
+            "encode": {
+                "enter": {
+                    "fill": {"value": "#e0f3db"},
+                    "stroke": {"value": "#3182bd"}
+                }
+            },
+            "transform": [
+                {"type": "geoshape", "projection": "mercator"}
+            ]
+        }
+    ]
 };
 
 // Line Chart Specification
@@ -20,8 +53,36 @@ const lineChartSpec = {
     }
 };
 
-// Embed the visualizations in their respective divs
+// Embed the map visualization
 vegaEmbed('#mapVis', mapSpec, {mode: "vega"}).then(response => {
-    // Setup interactions here
+    const view = response.view;
+    
+    // Assume your countries have an identifiable field like 'id' or 'name'
+    view.addEventListener('click', function(event, item) {
+        if (item && item.datum && item.datum.name) {
+            updateLineChart(item.datum.name);
+        }
+    });
 }).catch(console.error);
-vegaEmbed('#lineChartVis', lineChartSpec, {mode: "vega-lite"}).catch(console.error);
+
+// Function to update the line chart based on the country selected
+function updateLineChart(countryName) {
+    // Fetch new data or filter existing dataset based on the countryName
+    const newData = fetchDataForCountry(countryName); // This function needs to be implemented
+
+    // Update line chart spec data
+    lineChartSpec.data.values = newData;
+
+    // Re-embed the updated line chart
+    vegaEmbed('#lineChartVis', lineChartSpec, {mode: "vega-lite"}).catch(console.error);
+}
+
+// Mock function to simulate fetching data
+function fetchDataForCountry(countryName) {
+    // This should actually fetch or compute data based on `countryName`
+    return [
+        {Time: "2020", Value: Math.random() * 100},
+        {Time: "2021", Value: Math.random() * 100},
+        {Time: "2022", Value: Math.random() * 100}
+    ];
+}
