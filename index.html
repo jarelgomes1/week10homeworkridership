@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Interactive World Map</title>
-  <!-- Include Vega libraries -->
+  <!-- Include Vega and Vega-Lite libraries -->
   <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
   <script src="https://cdn.jsdelivr.net/npm/vega-lite@5"></script>
   <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
@@ -16,9 +16,13 @@
 
   <script type="text/javascript">
     // Load the Vega JSON file from your GitHub repository
-    vegaEmbed('#vis', 'https://raw.githubusercontent.com/jarelgomes1/atlasitdp/refs/heads/main/visualization.vg.json').then(function(result) {
+    vegaEmbed('#vis', 'https://raw.githubusercontent.com/jarelgomes1/atlasitdp/main/visualization.vg.json')
+    .then(function(result) {
       // Access the Vega view instance as result.view
-    }).catch(console.error);
+      console.log("Visualization loaded successfully!");
+    }).catch(function(error) {
+      console.error("Error loading the visualization:", error);
+    });
   </script>
 </body>
 </html>
