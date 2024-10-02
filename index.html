@@ -15,8 +15,8 @@
   <div id="vis"></div>
 
   <script type="text/javascript">
-    // Load the Vega JSON file from your repository
-    vegaEmbed('#vis', 'visualization.vg.json').then(function(result) {
+    // Load the Vega JSON file from your GitHub repository
+    vegaEmbed('#vis', 'https://raw.githubusercontent.com/jarelgomes1/atlasitdp/refs/heads/main/visualization.vg.json').then(function(result) {
       // Access the Vega view instance as result.view
     }).catch(console.error);
   </script>
