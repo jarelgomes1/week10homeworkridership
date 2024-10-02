@@ -1,20 +1,21 @@
 {
   "$schema": "https://vega.github.io/schema/vega/v5.json",
   "width": 800,
-  "height": 800,
+  "height": 1200,
   "signals": [
     {
       "name": "clicked_country",
       "value": null,
       "on": [{"events": "click", "update": "datum.properties.name"}]
-    }
+    },
+    {"name": "has_valid_data", "update": "length(data('filtered_data')) > 0"}
   ],
   "projections": [
     {
       "name": "mercator",
       "type": "mercator",
-      "scale": 150,
-      "translate": [{"signal": "width / 2"}, {"signal": "height / 3"}]
+      "scale": 125,
+      "translate": [{"signal": "width / 2"}, {"signal": "height / 2.5"}]
     }
   ],
   "data": [
@@ -27,12 +28,27 @@
       "name": "world",
       "url": "https://raw.githubusercontent.com/jarelgomes1/atlasitdp/refs/heads/main/visualization/countries.json",
       "format": {"type": "topojson", "feature": "countries"}
+    },
+    {
+      "name": "country_data",
+      "url": "https://raw.githubusercontent.com/jarelgomes1/atlasitdp/main/Final_Merged_Population_Density_PNRT_Data.csv",
+      "format": {"type": "csv", "delimiter": ","}
+    },
+    {
+      "name": "filtered_data",
+      "source": "country_data",
+      "transform": [
+        {
+          "type": "filter",
+          "expr": "datum.Country_Name === clicked_country && datum.People_Near_Rapid_Transit > 0 && datum.Population_Density > 0"
+        }
+      ]
     }
   ],
   "marks": [
     {
       "type": "group",
-      "encode": {"enter": {"width": {"value": 800}, "height": {"value": 400}}},
+      "encode": {"enter": {"width": {"value": 800}, "height": {"value": 500}}},
       "marks": [
         {
           "type": "shape",
@@ -54,9 +70,129 @@
             "update": {
               "strokeWidth": {"value": 1.5},
               "cursor": {"value": "pointer"},
-              "tooltip": {"signal": "{'Country': datum.properties.name}"}
+              "tooltip": {
+                "signal": "{'Country': datum.properties.name, 'People Near Transit': datum.People_Near_Rapid_Transit, 'Population Density': datum.Population_Density}"
+              }
             }
           }
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "encode": {
+        "enter": {
+          "width": {"value": 800},
+          "height": {"value": 800},
+          "y": {"value": 900}
+        }
+      },
+      "marks": [
+        {
+          "type": "text",
+          "encode": {
+            "enter": {
+              "x": {"value": 400},
+              "y": {"value": 200},
+              "align": {"value": "center"},
+              "text": {"value": "No data available for this country"},
+              "fill": {"value": "red"},
+              "fontSize": {"value": 20}
+            },
+            "update": {"opacity": {"signal": "has_valid_data ? 0 : 1"}}
+          }
+        },
+        {
+          "type": "group",
+          "encode": {
+            "update": {"opacity": {"signal": "has_valid_data ? 1 : 0"}}
+          },
+          "scales": [
+            {
+              "name": "xscale",
+              "type": "point",
+              "domain": {"data": "filtered_data", "field": "Year"},
+              "range": "width"
+            },
+            {
+              "name": "yscale_rpt",
+              "type": "linear",
+              "domain": {
+                "data": "filtered_data",
+                "field": "People_Near_Rapid_Transit"
+              },
+              "range": "height",
+              "nice": true,
+              "zero": true
+            },
+            {
+              "name": "yscale_pd",
+              "type": "linear",
+              "domain": {
+                "data": "filtered_data",
+                "field": "Population_Density"
+              },
+              "range": "height",
+              "nice": true,
+              "zero": true
+            }
+          ],
+          "axes": [
+            {
+              "orient": "bottom",
+              "scale": "xscale",
+              "title": "Year",
+              "labelFontSize": {"value": 14},
+              "titleFontSize": {"value": 16},
+              "titlePadding": {"value": 10}
+            },
+            {
+              "orient": "left",
+              "scale": "yscale_rpt",
+              "title": "People Near Rapid Transit",
+              "labelFontSize": {"value": 14},
+              "titleFontSize": {"value": 16},
+              "titlePadding": {"value": 10}
+            },
+            {
+              "orient": "right",
+              "scale": "yscale_pd",
+              "title": "Population Density",
+              "labelFontSize": {"value": 14},
+              "titleFontSize": {"value": 16},
+              "titlePadding": {"value": 10}
+            }
+          ],
+          "marks": [
+            {
+              "type": "line",
+              "from": {"data": "filtered_data"},
+              "encode": {
+                "enter": {
+                  "x": {"scale": "xscale", "field": "Year"},
+                  "y": {
+                    "scale": "yscale_rpt",
+                    "field": "People_Near_Rapid_Transit"
+                  },
+                  "stroke": {"value": "steelblue"},
+                  "strokeWidth": {"value": 3}
+                }
+              }
+            },
+            {
+              "type": "line",
+              "from": {"data": "filtered_data"},
+              "encode": {
+                "enter": {
+                  "x": {"scale": "xscale", "field": "Year"},
+                  "y": {"scale": "yscale_pd", "field": "Population_Density"},
+                  "stroke": {"value": "orange"},
+                  "strokeWidth": {"value": 3},
+                  "strokeDash": {"value": [5, 5]}
+                }
+              }
+            }
+          ]
         }
       ]
     }
