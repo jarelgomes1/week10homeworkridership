@@ -1,14 +1,22 @@
 {
   "$schema": "https://vega.github.io/schema/vega/v5.json",
   "width": 800,
-  "height": 600,
-  "autosize": "none",
+  "height": 800,
+  "signals": [
+    {
+      "name": "clicked_country",
+      "value": null,
+      "on": [
+        {"events": "click", "update": "datum.properties.name"}  // Update to match your data structure
+      ]
+    }
+  ],
   "projections": [
     {
       "name": "mercator",
       "type": "mercator",
       "scale": 150,
-      "translate": [{"signal": "width / 2"}, {"signal": "height / 2"}]
+      "translate": [{"signal": "width / 2"}, {"signal": "height / 3"}]
     }
   ],
   "data": [
@@ -21,44 +29,46 @@
       "name": "world",
       "url": "https://raw.githubusercontent.com/jarelgomes1/atlasitdp/refs/heads/main/visualization/countries.json",
       "format": {"type": "topojson", "feature": "countries"}
-    },
-    {
-      "name": "cities",
-      "url": "https://raw.githubusercontent.com/jarelgomes1/atlasitdp/main/data/final_cleaned_merged_cities_countries_no_duplicates.csv",
-      "format": {"type": "csv", "delimiter": ","}
     }
   ],
   "marks": [
     {
-      "type": "shape",
-      "from": {"data": "oceans"},
-      "transform": [{"type": "geoshape", "projection": "mercator"}],
+      "type": "group",
       "encode": {
-        "enter": {"fill": {"value": "#a2d4ec"}, "stroke": {"value": "none"}}
-      }
-    },
-    {
-      "type": "shape",
-      "from": {"data": "world"},
-      "transform": [{"type": "geoshape", "projection": "mercator"}],
-      "encode": {
-        "enter": {"fill": {"value": "#e0f3db"}, "stroke": {"value": "#3182bd"}}
-      }
-    },
-    {
-      "type": "symbol",
-      "from": {"data": "cities"},
-      "encode": {
-        "enter": {"size": {"value": 50}, "fill": {"value": "red"}},
-        "update": {
-          "x": {"field": "longitude", "scale": "mercator"},
-          "y": {"field": "latitude", "scale": "mercator"},
-          "tooltip": {
-            "signal": "{'City': datum.city_name, 'Country': datum.country_name}"
+        "enter": {
+          "width": {"value": 800},
+          "height": {"value": 400}
+        }
+      },
+      "marks": [
+        {
+          "type": "shape",
+          "from": {"data": "oceans"},
+          "transform": [{"type": "geoshape", "projection": "mercator"}],
+          "encode": {
+            "enter": {
+              "fill": {"value": "#a2d4ec"},
+              "stroke": {"value": "none"}
+            }
+          }
+        },
+        {
+          "type": "shape",
+          "from": {"data": "world"},
+          "transform": [{"type": "geoshape", "projection": "mercator"}],
+          "encode": {
+            "enter": {
+              "fill": {"value": "#e0f3db"},
+              "stroke": {"value": "#3182bd"}
+            },
+            "update": {
+              "strokeWidth": {"value": 1.5},
+              "cursor": {"value": "pointer"},
+              "tooltip": {"signal": "{'Country': datum.properties.name}"}  // Update this field as necessary
+            }
           }
         }
-      }
+      ]
     }
-  ],
-  "config": {}
+  ]
 }
